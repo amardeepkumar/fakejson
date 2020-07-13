@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id": 1,
       "customerName": "Nestle",
       "city": "Gurgaon",
       "customerId": "C2341",
@@ -55,6 +56,7 @@
       ]
     },
     {
+      "id": 2,
       "customerName": "Pepsico",
       "city": "Chennai",
       "customerId": "C5341",
@@ -87,6 +89,7 @@
       ]
     },
     {
+      "id": 3,
       "customerName": "KFC",
       "city": "Bangalore",
       "customerId": "C5141",
