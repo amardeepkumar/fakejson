@@ -1,5 +1,5 @@
 {
-   "pages":[
+   "posts":[
       {
          "id":1,
          "customerName":"Nestle",
@@ -111,7 +111,7 @@
          ]
       }
    ],
-   "login":[
+   "comments":[
       {
          "id":1.         "status":1,
          "error":"",
