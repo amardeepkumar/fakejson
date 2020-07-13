@@ -111,9 +111,16 @@
       ]
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "login": [
+    {
+      "id": 1.
+  "status": 1,
+  "error": "",
+  "result": {
+    "userId": "1",
+    "name": "viji"
+  }
+}
   ],
   "profile": {
     "name": "typicode"
